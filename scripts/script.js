@@ -11,17 +11,17 @@ new Vue({
       isShowCover: true,
       tracks: [
         {
-          name: "Alasan_Bodok",
+          name: "Terminal_Baru",
           artist: "Pace Santana",
           cover: "https://uropmabin-r7.github.io/Santana-Music-master/img/Pace_Santana1.jpg",
-          source: "https://uropmabin-r7.github.io/Santana-Music-master/mp3/Alasan_Bodok.m4a",
-          url: "https://youtu.be/3Ye2xWpRh6o?si=jZNBxs4Vv_4K6_MZ",
+          source: "https://uropmabin-r7.github.io/Santana-Music-master/mp3/Terminal_Baru.mp3",
+          url: "https://youtu.be/lMFqog5jwfs?si=qiFKHVUtf-Oq0yRk",
           favorited: false
         },
         {
           name: "Cinta_diUncen",
           artist: "Pace Santana",
-          cover: "https://uropmabin-r7.github.io/Santana-Music-master/img/Pace_Santana2.jpg",
+          cover: "https://uropmabin-r7.github.io/Santana-Music-master/img/Pace_Santana2.png",
           source: "https://uropmabin-r7.github.io/Santana-Music-master/mp3/Cinta_diUncen.m4a",
           url: "https://youtu.be/ukvoV2r8OpI?si=ZH_7IlDgreHGwKpL",
           favorited: true
